@@ -45,4 +45,6 @@ From this project, I gained hands-on experience in data cleaning techniques, han
 I improved my proficiency in parsing and splitting columns, especially with functions like PARSENAME for complex string handling. 
 This experience also taught me how to manage and clean data efficiently in SQL Server, dealing with duplicates and transforming the dataset into a well-organized, analysis-ready form.
 
+# AUTHOR
+
 
