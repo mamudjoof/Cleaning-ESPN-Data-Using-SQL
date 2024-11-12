@@ -13,7 +13,7 @@ The dataset was scraped from ESPN Cricinfo's website using Excel.
 You can find the original dataset at the following link: https://www.espncricinfo.com/records/highest-career-batting-average-282910 
 
 # METHODOLOGY
-# DATA CLEANING:
+# Data Cleaning:
 + Renamed columns for clarity, transforming cryptic labels (e.g., "Mat" to "Matches Played") into more understandable names.
 + Replaced missing or ambiguous values such as "-", NULL with 0, 
 + Split complex columns like "Span" into separate "Start Year" and "End Year" fields for easier analysis of player tenure.
@@ -21,7 +21,7 @@ You can find the original dataset at the following link: https://www.espncricinf
 + Removed unnecessary columns that did not contribute to the analysis, such as certain numeric indicators.
 + Handled duplicate entries by identifying and removing duplicate player records based on key characteristics.
 
- # DATA ANALYSIS AND QUERIES 
+ # Data Analysis And Queries
 + Calculated the career length for each player by subtracting the start year from the end year.
 + Aggregated data to determine average career length across all players and identified the batting strike rate for players with careers longer than ten years.
 + Counted players who began their careers before 1960.
