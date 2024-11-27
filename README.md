@@ -46,5 +46,5 @@ I improved my proficiency in parsing and splitting columns, especially with func
 This experience also taught me how to manage and clean data efficiently in SQL Server, dealing with duplicates and transforming the dataset into a well-organized, analysis-ready form.
 
 # AUTHOR
-
+Mamud Joof
 
